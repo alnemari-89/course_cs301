@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "CS301: Computer Architecture"
@@ -5,6 +6,8 @@ course_description: "An exploration of the basic hardware/software components, a
 next: ../Unit08
 previous: ../Unit06
 ---
+=======
+>>>>>>> master
 **Unit 7: Storage and I/O** <span id="7"></span> 
 *In this unit, we will discuss the input/output devices that enable
 communication between computers and the outside world in some form. The

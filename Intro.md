@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "CS301: Computer Architecture"
@@ -5,6 +6,8 @@ course_description: "An exploration of the basic hardware/software components, a
 next: ../Unit01
 previous: ../../../
 ---
+=======
+>>>>>>> master
 Course Syllabus for "CS301: Computer Architecture"
 --------------------------------------------------
 

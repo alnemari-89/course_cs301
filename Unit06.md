@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "CS301: Computer Architecture"
@@ -5,6 +6,8 @@ course_description: "An exploration of the basic hardware/software components, a
 next: ../Unit07
 previous: ../Unit05
 ---
+=======
+>>>>>>> master
 **Unit 6: The Memory Hierarchy** <span id="6"></span> 
 *In prior units, you have studied elementary hardware components, e.g.,
 combinational circuits and sequential circuits; functional hardware

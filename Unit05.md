@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "CS301: Computer Architecture"
@@ -5,6 +6,8 @@ course_description: "An exploration of the basic hardware/software components, a
 next: ../Unit06
 previous: ../Unit04
 ---
+=======
+>>>>>>> master
 **Unit 5: Designing a Processor** <span id="5"></span> 
 *In this unit, we will discuss various components of MIPS processor
 architecture and then take a subset of MIPS instructions to create a

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "CS301: Computer Architecture"
@@ -5,6 +6,8 @@ course_description: "An exploration of the basic hardware/software components, a
 next: ../Unit09
 previous: ../Unit07
 ---
+=======
+>>>>>>> master
 **Unit 8: Parallel Processing** <span id="8"></span> 
 *This unit will address several advanced topics in computer
 architecture, focusing on the reasons for and the consequences of the

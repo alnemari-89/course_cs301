@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "CS301: Computer Architecture"
@@ -5,6 +6,8 @@ course_description: "An exploration of the basic hardware/software components, a
 next: ../Unit04
 previous: ../Unit02
 ---
+=======
+>>>>>>> master
 **Unit 3: Fundamentals of Digital Logic Design** <span id="3"></span> 
 *We will begin this unit with an overview of digital components,
 identifying the building blocks of digital logic. We will build on that

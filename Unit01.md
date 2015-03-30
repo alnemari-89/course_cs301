@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "CS301: Computer Architecture"
@@ -5,6 +6,8 @@ course_description: "An exploration of the basic hardware/software components, a
 next: ../Unit02
 previous: ../Intro
 ---
+=======
+>>>>>>> master
 **Unit 1: Introduction to Computer Technology** <span id="1"></span> 
 *In this unit, we will discuss various advances in technology that have
 led to the development of modern computers. You will begin your study

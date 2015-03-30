@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "CS301: Computer Architecture"
@@ -5,6 +6,8 @@ course_description: "An exploration of the basic hardware/software components, a
 next: ../../../
 previous: ../Unit08
 ---
+=======
+>>>>>>> master
 **Unit 9: Look Back and Look Ahead** <span id="9"></span> 
 *This unit looks back at important concepts of computer architecture
 that were covered in this course and looks ahead at some additional

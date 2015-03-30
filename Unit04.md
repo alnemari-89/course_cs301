@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "CS301: Computer Architecture"
@@ -5,6 +6,8 @@ course_description: "An exploration of the basic hardware/software components, a
 next: ../Unit05
 previous: ../Unit03
 ---
+=======
+>>>>>>> master
 **Unit 4: Computer Arithmetic** <span id="4"></span> 
 *In this unit, you will build upon your knowledge of computer
 instructions and digital logic design to discuss the role of computer

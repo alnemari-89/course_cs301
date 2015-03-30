@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "CS301: Computer Architecture"
@@ -5,6 +6,8 @@ course_description: "An exploration of the basic hardware/software components, a
 next: ../Unit03
 previous: ../Unit01
 ---
+=======
+>>>>>>> master
 **Unit 2: Instructions: Hardware Language** <span id="2"></span> 
 **In order to understand computer architecture, you need to understand
 the components that comprise a computer and their interconnections. Sets
